@@ -1,0 +1,23 @@
+body {
+    margin:0;
+    background-color: #2299ff;
+}
+
+.navbar{
+    background-color: white;
+    padding: 15px;
+    text-align: right;
+}
+
+.nav-link{
+    background-color: blue;
+    color: white;
+    padding: .5em;
+    border-radius: 10px;
+
+}
+
+.form{
+    margin: 15px;
+
+}
